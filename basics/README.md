@@ -1,1 +1,1 @@
-2-bring_me_home: Switches to the home directory.
+Switches to the home directory.

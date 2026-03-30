@@ -1,1 +1,2 @@
-Switches to the home directory.
+#!/bin/bash
+cd
