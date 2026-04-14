@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "0.00\n" ${NUM:-0}
+echo $NUM | awk "{printf "%.2f\n", \$1}"
